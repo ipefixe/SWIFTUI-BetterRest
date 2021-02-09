@@ -11,6 +11,7 @@
 		0A14E5D825C5F41B0035E6FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A14E5D725C5F41B0035E6FC /* ContentView.swift */; };
 		0A14E5DA25C5F41C0035E6FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A14E5D925C5F41C0035E6FC /* Assets.xcassets */; };
 		0A14E5DD25C5F41C0035E6FC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A14E5DC25C5F41C0035E6FC /* Preview Assets.xcassets */; };
+		0A14E5E625C60C8B0035E6FC /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0A14E5E525C60C8B0035E6FC /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		0A14E5D925C5F41C0035E6FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A14E5DC25C5F41C0035E6FC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0A14E5DE25C5F41C0035E6FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A14E5E525C60C8B0035E6FC /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				0A14E5D525C5F41B0035E6FC /* Better_RestApp.swift */,
 				0A14E5D725C5F41B0035E6FC /* ContentView.swift */,
 				0A14E5D925C5F41C0035E6FC /* Assets.xcassets */,
+				0A14E5E525C60C8B0035E6FC /* SleepCalculator.mlmodel */,
 				0A14E5DE25C5F41C0035E6FC /* Info.plist */,
 				0A14E5DB25C5F41C0035E6FC /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A14E5E625C60C8B0035E6FC /* SleepCalculator.mlmodel in Sources */,
 				0A14E5D825C5F41B0035E6FC /* ContentView.swift in Sources */,
 				0A14E5D625C5F41B0035E6FC /* Better_RestApp.swift in Sources */,
 			);
